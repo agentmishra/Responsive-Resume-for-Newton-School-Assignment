@@ -6,5 +6,8 @@ the reason i haven's done so, is because, i wasn't asked to make a perfect resum
 
 incase the NS team wished me to enter every detail, i will do it
 
+the preview is available at 
+https://amitkumarmishra.com/responsive-cv-using-html-and-css/
+
 thanks
 amit kumar mishra
